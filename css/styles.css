@@ -1,0 +1,45 @@
+body {
+    width: 72em;
+    height: 35em;
+    background-color: darkgreen;
+}
+
+.bg-box {
+    height:100% ;
+    background-image: url("../IMG/1694004594072.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bg-box2 {
+    height: 100%;
+    background-image: url("../IMG/3F3F.webp");
+    background-repeat: repeat-y;
+    background-position: left;
+    background-size: 5%;
+}
+
+.bg-box3 {
+    height: 100%;
+    background-image: url('../IMG/lamp-png-34914.png');
+    background-repeat: repeat-x;
+    background-position: top;
+    background-size: 3%;
+}
+
+.bg-box4 {
+    height: 100%;
+    background-image: url('../IMG/58eb07b830eab15b56162788.png');
+    background-repeat: repeat-y;
+    background-position: right;
+    background-size: 5%;
+}
+
+.bg-box5 {
+    height: 100%;
+    
+    background-image: url('../IMG/green-png-44873.png');
+    background-repeat: repeat-x;
+    background-position: bottom;
+    background-size: 30%;
+}
